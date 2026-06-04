@@ -1,50 +1,68 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20I'm%20Areeba%20👋&fontSize=35&fontColor=ffffff" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+## 💫 About Me
 
-###
+🎓 My name is **Areeba Sohail**  
+💻 I am a 2nd Semester **Artificial Intelligence** student at FAST University  
+🧠 I have experience in **C and C++ programming**  
+🚀 Currently learning Data Structures, Problem Solving & AI fundamentals  
+📚 I enjoy solving coding problems and improving my logical thinking  
+
+---
+
+## 🧠 Skills
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-ff6f00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-1f8fff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8e44ad?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshkhattak&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshkhattak&theme=tokyonight" />
+</p>
+
+---
 
 
 
-<h1 align="center">Hello Everyone 👋👋</h1>
+## 📫 Connect With Me
 
-###
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<h3 align="left">👩‍💻  About Me</h3>
+  <a href="mailto:arshkhattak1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<p align="left">I'm Areeba Sohail, a BS Artificial Intelligence student at FAST University.<br><br>- 🔭 I’m working on improving my programming and problem-solving skills through academic projects and continuous learning.<br>- 📚 I'm currently exploring Python, AI concepts, and Data Structures & Algorithms (DSA).<br>- ⚡ In my free time, I enjoy solving coding challenges, learning new technologies, and exploring the latest developments in Artificial Intelligence.</p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
 
