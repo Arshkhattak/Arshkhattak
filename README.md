@@ -52,13 +52,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Arshkhattak/Arshkhattak/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Arshkhattak&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
