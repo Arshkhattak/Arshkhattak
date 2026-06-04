@@ -12,11 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arshkhattak.Arshkhattak&"  />
-</div>
 
-###
 
 <h1 align="center">Hello Everyone 👋👋</h1>
 
